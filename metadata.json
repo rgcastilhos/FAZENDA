@@ -1,0 +1,8 @@
+{
+  "name": "AgroGestão Pro - Gestão de Gado e Lavoura",
+  "description": "Um aplicativo completo para gestão pecuária e agrícola, permitindo controle de estoque, rebanho, maquinário e lavoura com suporte a fotos, categorias personalizáveis e análise inteligente com IA.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
